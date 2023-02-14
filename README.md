@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, Typescript, nodejs, mysql, mongodb, graphQl**
 
-- 📫 How to reach me **nicolasr@tricepsmda.com**
+- 📫 How to reach me **nrossettiossa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
