@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Triceps MDA [Reconquer app (web developement and data science)](https://vimeo.com/761052297?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220)
 
-- 🌱 I’m currently learning **Javascript, nodejs, mysql, mongodb, graphQl, react, tensorflowjs**
+- 🌱  **Javascript, nodejs, mysql, mongodb, graphQl, react, tensorflowjs**
 
 - 📫 How to reach me **nrossettiossa@gmail.com**
 
